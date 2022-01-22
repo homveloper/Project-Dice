@@ -1,0 +1,11 @@
+diceType	diceName	baseDamage	baseAPS	targetSelection	currentBuffList	damageIncreasePerClass	damageIncreasePerPower	APSIncreasePerClass	APSIncreasePerPower
+2	Fire	20	0.8	0		3	10	-0.01	0
+2	Electric	30	0.7	0		3	10	-0.02	0
+1	Wind	20	0.45	0		3	15	0	0
+	Poison								
+	Ice								
+	Iron								
+	Broken								
+	Gamble								
+	Lock								
+	Mine								
